@@ -47,3 +47,4 @@ function Pacman(x, y) {
     return false;
   };
 }
+ 
